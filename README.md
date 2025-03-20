@@ -1,1 +1,1 @@
-TO view lecture practice work go to either practice or challenges to view all challenges and practices
+This repository holds the assignment 1 computing skills assignment work for flix Cardwell (2304419)
